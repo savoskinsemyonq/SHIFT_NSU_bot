@@ -2,4 +2,9 @@ streamlit==0.61.0
 pandas==1.3.3
 numpy==1.18.1
 scikit-learn==1.0
-telegram.ext==0.0.1
+telegram==0.0.1
+pickleshare==0.7.5
+Updater==0.0.1
+CommandHandler==0.0.1
+MessageHandler==0.0.1
+Filters==0.0.1
