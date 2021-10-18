@@ -4,7 +4,3 @@ numpy==1.18.1
 scikit-learn==1.0
 telegram==0.0.1
 pickleshare==0.7.5
-Updater==0.0.1
-CommandHandler==0.0.1
-MessageHandler==0.0.1
-Filters==0.0.1
