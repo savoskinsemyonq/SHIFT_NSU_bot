@@ -3,4 +3,3 @@ telegram==0.0.1
 pickleshare==0.7.5
 python-telegram-bot==13.7
 pyTelegramBotAPI==3.7.4
-logging==0.4.9.6
